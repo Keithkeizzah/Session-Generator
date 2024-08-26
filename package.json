@@ -7,10 +7,7 @@
     },
     "scripts": {
     "start": "node Maher-Zubair.js"
-        "scripts": {
-  "build": "@netlify/plugin-nextjs"
   },
-    }   
   "author": "Maher-Zubair",
   "license": "GPL-3.0 license",
   "dependencies": {
